@@ -111,8 +111,4 @@ The Sales Effectiveness Prediction project demonstrates how machine learning can
 ## Author
 **Ayushman Barik**
 
-GitHub: https://github.com/your-username
-
----
-
 ⭐ If you find this project useful, consider giving the repository a star!
